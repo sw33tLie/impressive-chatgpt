@@ -12,8 +12,6 @@ Now, imagine that you have a computer that can solve any math problem, no matter
 
 The P vs NP problem asks whether or not all hard problems can be solved quickly by a computer, or if there are some hard problems that will always take a long time for a computer to solve. It's a very difficult problem that no one has been able to solve yet, but if someone does figure it out, it could have big implications for the world of computing.
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![sw33tlie@protonmail.com](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2Fd3c2169840dfdbf21df944b876398863%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fsw.png&w=64&q=75)
-
 # Input 2
 
 Explain P vs NP problem to a university student
