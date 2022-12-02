@@ -89,14 +89,14 @@ all:
 It looks like there is a syntax error on the following line:
 
 ```
-Copy codename h0
+name h0
 
 ```
 
 The `:` character is missing after `name`, so it should be:
 
 ```
-Copy codename: h0
+name: h0
 
 ```
 
