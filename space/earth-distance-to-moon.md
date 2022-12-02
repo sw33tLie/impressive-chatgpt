@@ -26,3 +26,5 @@ int main()
     return 0;
 }
 ```
+
+In this script, the Earth and Moon are assumed to be located at fixed positions in space. In reality, their positions would change over time due to their orbits around the Sun. To calculate the distance between the Earth and the Moon at a specific point in time, you would need to take into account the position of the Earth and Moon at that time, which would require more complex calculations.
