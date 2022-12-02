@@ -1,8 +1,8 @@
 # Input 1
 
-# Answer 1
-
 Explain P vs NP problem to a 10yo
+
+# Answer 1
 
 The P vs NP problem is a famous problem in computer science that has to do with how quickly certain problems can be solved by computers. Here's a simplified explanation:
 
