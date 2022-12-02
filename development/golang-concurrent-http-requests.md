@@ -6,7 +6,7 @@ Write a golang script to send multiple HTTP requests to https://example.com usin
 
 Here is an example of a Go script that sends multiple HTTP requests to [https://example.com](https://example.com) using concurrency:
 
-```
+```golang
 package main
 
 import (
