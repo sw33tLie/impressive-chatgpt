@@ -6,7 +6,7 @@ Write a solidity code vulnerable to reentrancy attacks. Then fix it to make it s
 
 Here is a simple example of a Solidity contract that is vulnerable to reentrancy attacks:
 
-```
+```solidity
 pragma solidity ^0.5.0;
 
 contract ReentrancyAttack {
@@ -30,7 +30,7 @@ To fix this issue, the contract can use a mutex to prevent reentrancy attacks. A
 
 Here is an updated version of the contract that uses a mutex to prevent reentrancy attacks:
 
-```
+```solidity
 pragma solidity ^0.5.0;
 
 contract ReentrancyAttack {
